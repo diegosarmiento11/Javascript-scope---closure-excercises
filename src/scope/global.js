@@ -9,7 +9,7 @@ var diego = 'developer'
 
 console.log(diego)
 
-// You can acces to global scope when variables are declared globally. But you can't redeclared Let or Const values.
+// You can acces to global scope when variables are declared globally. But you can't redeclared Let or Const values.g
 
 var hola = 'holi'
 let hola2 = 'hola'
